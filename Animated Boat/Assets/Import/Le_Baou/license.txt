@@ -1,0 +1,11 @@
+Model Information:
+* title:	Le Baou
+* source:	https://sketchfab.com/3d-models/le-baou-18c324002b5f492c8edd2b0c21c7158d
+* author:	ra_fuq (https://sketchfab.com/nevidaes)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Le Baou" (https://sketchfab.com/3d-models/le-baou-18c324002b5f492c8edd2b0c21c7158d) by ra_fuq (https://sketchfab.com/nevidaes) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
