@@ -1,0 +1,19 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "2033781945774637751",
+            "Name": "Boat Animated",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2033781945774637751_boat_animated/Boat Parent.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
